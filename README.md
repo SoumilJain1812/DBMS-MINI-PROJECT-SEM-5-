@@ -20,7 +20,7 @@ How to run:
      SOURCE C:/path/to/library_complete.sql;
 3) Install Python packages:
    pip install -r requirements.txt
-4) Edit app.py get_db() if your MySQL root password differs.
+4) Edit the app.py get_db() if your MySQL root password differs.
 5) Run the app:
    python app.py
 6) Open http://127.0.0.1:5000
