@@ -1,0 +1,1 @@
+:root{--brand:#0d6efd;--muted:#6c757d}body{font-family:Inter, system-ui, -apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial;background:#f7f9fc}.navbar-brand{font-weight:700}.card-quick{padding:1rem;border-radius:12px;background:white;box-shadow:0 6px 18px rgba(20,30,60,0.06)}.small-muted{color:var(--muted);font-size:0.95rem}.table-hover tbody tr:hover{background:#f1f7ff}
