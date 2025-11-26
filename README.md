@@ -1,5 +1,9 @@
 Library Management System - Complete Self-contained Package
 
+AUTHORS: 
+SOUMIL JAIN PES1UG23CS587
+SOHAM U PES1UG23CS584
+
 Files:
 - app.py
 - sql/library_complete.sql  (self-contained SQL that creates library_db and populates data)
